@@ -1,4 +1,4 @@
-API = "69edf0567adcaa338e8d5b987fa569a2"
+# API =[YOUR API KEY]
 import requests
 
 
